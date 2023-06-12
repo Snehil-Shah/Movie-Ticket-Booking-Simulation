@@ -1,9 +1,12 @@
 # Movie Ticket Booking Simulation
 Summary:
 Our project is a simulation of a movie ticket booking system.
-The salient features of our projects are:\n
-(i)   An active login system with real time updation of user data.\n
-(ii)  An interactive menu system to navigate through the program.
+The salient features of our projects are:    
+
+(i)   An active login system with real time updation of user data.   
+
+(ii)  An interactive menu system to navigate through the program.   
+
 (iii) Extensive database management using Mysql for personalised user profiles.
 
 Pre-requisites:

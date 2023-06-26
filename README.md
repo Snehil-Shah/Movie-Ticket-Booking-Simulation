@@ -19,6 +19,7 @@ Before executing "main.c", you need to perform the following actions:
 4. MySQL header files and libraries must be included as path in the compiler.
 5. 'libmysql.dll' must be included in the project folder.
 6. -lmysql should be added to the linker.
+
 Now you may execute "main.c" program :)  
 
 ## Members:

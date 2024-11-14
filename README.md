@@ -23,7 +23,9 @@ Before executing "main.c", you need to perform the following actions:
 Now you may execute "main.c" program :)  
 
 ## Members:
-Gaurav Kumar (BT22CSE001)  
-Divyansh Nigam (BT22CSE003)  
-Snehil Shah (BT22CSE015)  
-Moksh Pankaj Kajaliya (BT22CSE021)
+
+- Gaurav Kumar (BT22CSE001)  
+- Divyansh Nigam (BT22CSE003)
+- Abhyudaya Bhatnagar (BT22CSE012)
+- Snehil Shah (BT22CSE015)  
+- Abhishek Sarkar (BT22CSE033)
